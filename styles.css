@@ -70,7 +70,3 @@ main a[href^="mailto:"] {
     color: #f7196b;
     font-weight: bold;
 }
-main a[href^="mailto:"]:hover {
-    color: 
-    #b60696;
-}
