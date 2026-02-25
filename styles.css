@@ -21,7 +21,7 @@ header h1 {
 }
 
 nav a {
-    color: rgb(233, 15, 211);
+    color: rgb(222, 82, 208);
     text-decoration: none;
     margin: 0 10px;
 }
@@ -67,6 +67,6 @@ img {
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
-    color: #f7196b;
+    color: #ef6d9d;
     font-weight: bold;
 }
