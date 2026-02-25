@@ -4,7 +4,7 @@ selector {
 body {
     font-family: Arial, sans-serif;
     color: #030203;
-    background-color: #b799a7;
+    background-color: #1e1c1d;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -67,6 +67,6 @@ img {
     border-radius: 10px;
 }
 main a[href^="mailto:"] {
-    color: #ef6d9d;
+    color: #000000;
     font-weight: bold;
 }
